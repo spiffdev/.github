@@ -5,7 +5,9 @@ Spiff Commerce has constructed the most powerful cloud based personalization pla
 ### Don't miss the oportunity to tap into this emerging & valuable market.
 ### Don't waste money on overpriced inflexible integrations that cost more than you can make.
 
-We've included a directory of common topics below that can help you get started. You can also visit our official documentation site at https://developer.spiffcommerce.com/
+We've included a directory of common topics below that can help you get started. You can also visit our official documentation site at 
+
+https://developer.spiffcommerce.com/
 
 ## Javascript SDK
 ### Coming soon
