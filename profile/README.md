@@ -5,15 +5,3 @@ Spiff Commerce has constructed the most powerful cloud based personalization pla
 We've included a directory of common topics below that can help you get started. You can also visit our official documentation site at 
 
 https://developer.spiffcommerce.com/
-
-## Javascript SDK
-### Coming soon
-
-## REST API
-### Coming soon
-
-## GraphQL API
-### Coming soon
-
-## Contact
-### Coming soon
