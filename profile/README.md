@@ -6,7 +6,7 @@ We cover all non development concepts on our support site.
 
 https://support.spiffcommerce.com/
 
-You can also visit our official developer documentation site at 
+You can also visit our official developer documentation site.
 
 https://developer.spiffcommerce.com/
 
