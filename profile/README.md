@@ -10,10 +10,6 @@ You can also visit our official developer documentation site.
 
 https://developer.spiffcommerce.com/
 
-To keep up to date with announcements, see our news page.
-
-https://news.spiffcommerce.com/
-
 We've pinned some quick start templates below to help you get started in some of the most popular frameworks.
 
 https://spiffcommerce.statuspage.io/
